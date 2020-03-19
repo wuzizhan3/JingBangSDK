@@ -27,3 +27,4 @@ vc.jbToken = "xxx"
 navigationController?.pushViewController(v, animated: true)
 
 
+
