@@ -33,9 +33,16 @@ vc.jbToken = "xxx"
 navigationController?.pushViewController(v, animated: true)
 
 ------------------------------------------------
+
 |参数       |       类型        |      说明      |
+
 |jbUrl     |      NSString     |     从后台获取  |
+
 |jbToken   |      NSString     |    从后台获取   |  
+
 ------------------------------------------------
+
+
+
 
 
