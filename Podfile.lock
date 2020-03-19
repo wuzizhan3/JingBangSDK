@@ -1,0 +1,16 @@
+PODS:
+  - JingBangWebSDK (0.1.0)
+
+DEPENDENCIES:
+  - JingBangWebSDK (from `../`)
+
+EXTERNAL SOURCES:
+  JingBangWebSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JingBangWebSDK: 3a5cf05b04bf50062272970c554d2d5261d7fd72
+
+PODFILE CHECKSUM: f42db316d11b6724d98b848ec09e9461a6b0742e
+
+COCOAPODS: 1.8.4

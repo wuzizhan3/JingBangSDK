@@ -1,0 +1,6 @@
+framework module JingBangWebSDK {
+  umbrella header "JingBangWebSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

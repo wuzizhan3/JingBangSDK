@@ -1,0 +1,6 @@
+framework module Pods_JingBangWebSDK_Tests {
+  umbrella header "Pods-JingBangWebSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
