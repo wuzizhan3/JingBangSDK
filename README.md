@@ -9,11 +9,13 @@ CocoaPods pod 'JingBangWebSDK'
 
 
 使用
+
 OC
 JBHomeViewController *vc = [[JBHomeViewController alloc] init];
 vc.jbUrl = @"https://www.mayijingbang.com";
 vc.jbToken = @"";
 [self.navigationController pushViewController:vc animated:YES]
+
 Swift
 let vc = JBHomeViewController()
 navigationController?.pushViewController(v, animated: true)
