@@ -15,15 +15,21 @@ CocoaPods pod 'JingBangWebSDK'
 OC
 
 JBHomeViewController *vc = [[JBHomeViewController alloc] init];
+
 vc.jbUrl = @"xxx";
+
 vc.jbToken = @"xxx";
+
 [self.navigationController pushViewController:vc animated:YES];
 
 Swift
 
 let vc = JBHomeViewController()
+
 vc.jbUrl = "xxx"
+
 vc.jbToken = "xxx"
+
 navigationController?.pushViewController(v, animated: true)
 
 
